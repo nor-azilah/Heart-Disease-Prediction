@@ -4,6 +4,8 @@
 
 This repository contains a machine learning project for binary classification, aimed at predicting the presence or absence of heart disease based on various features.
 
+- [Link to dataset](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
+
 ## Requirements
 
 - Python 3.10
